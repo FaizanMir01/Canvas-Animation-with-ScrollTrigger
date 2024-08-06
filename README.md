@@ -16,6 +16,7 @@ This project demonstrates a canvas animation synchronized with scroll events usi
 ## Demo
 
 You can see a live demo of the project [here](#).
+<a href="https://faizanmir01.github.io/Canvas-Animation-with-ScrollTrigger/">Demo</a>
 
 ## Installation
 
