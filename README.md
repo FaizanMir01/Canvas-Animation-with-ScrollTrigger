@@ -21,23 +21,9 @@ You can see a live demo of the project [here](#).
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/canvas-scroll-animation.git
+    git clone https://github.com/FaizanMir01/canvas-scroll-animation.git
     cd canvas-scroll-animation
     ```
-
-2. Ensure you have a local server to serve the files, as loading local images directly might not work with some browsers due to CORS policies. You can use a simple HTTP server like `http-server` in Node.js.
-
-    Install `http-server` if you don't have it:
-    ```bash
-    npm install -g http-server
-    ```
-
-3. Start the server:
-    ```bash
-    http-server
-    ```
-
-4. Open your browser and navigate to `http://localhost:8080` (or whichever port `http-server` specifies).
 
 ## Usage
 
